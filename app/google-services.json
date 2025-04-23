@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545492392190",
+    "project_id": "rumshop",
+    "storage_bucket": "rumshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545492392190:android:71bee185f17180ac3d6daf",
+        "android_client_info": {
+          "package_name": "com.example.rumshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbNAAe7eFTIXicWLpVMoOTZ68gdnwgSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

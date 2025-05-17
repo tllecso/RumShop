@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(MainActivity.this, "Sikeres bejelentkezés: " + user.getEmail(), Toast.LENGTH_SHORT).show();
 
                         // Sikeres bejelentkezés után átirányítás a HomeActivity-re
-                        Intent intent = new Intent(MainActivity.this, HomeActivity.class);
+                        Intent intent = new Intent(this, HomeActivity.class);
                         startActivity(intent);
                         finish(); // Az aktív Activity lezárása
                     } else {

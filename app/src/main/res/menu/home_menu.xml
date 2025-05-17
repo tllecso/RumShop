@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Kosár ikon -->
+    <item
+        android:id="@+id/menu_cart"
+        android:icon="@drawable/ic_cart"
+        android:title="Kosár"
+        app:showAsAction="always" />
+
+    <!-- Profil ikon -->
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profil"
+        app:showAsAction="always" />
+</menu>
